@@ -7,8 +7,8 @@ import re
 # --- بياناتك ---
 API_ID = 23032698
 API_HASH = '99ad65a5fcd38203621cb20acd2aaba5'
-BOT_TOKEN = '9008475742:AAEKtkNpuioDF5OA8b593WgIQ8oB9m-AVsI'
-MY_ID = 8626660857  # المالك الوحيد
+BOT_TOKEN = '8731364855:AAEZI3B3A4mWvPmJZKYOA7ySAuqcCy-THR4'
+MY_ID = 5528442514  # المالك الوحيد
 
 bot = TelegramClient('bait_bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
